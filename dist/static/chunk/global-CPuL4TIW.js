@@ -1,0 +1,1 @@
+import{r as e,a2 as l}from"../entry/index-D2WG9hqC.js";function c(){const s=e([]);return{allUsers:s,getAllUsers:async()=>{const a=await l({page_size:9999}).catch(r=>!1);a&&(s.value=a.data.list)}}}export{c as l};
