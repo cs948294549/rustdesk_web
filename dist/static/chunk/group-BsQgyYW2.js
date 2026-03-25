@@ -1,0 +1,1 @@
+import{a1 as t}from"../entry/index-sZ_ytvl5.js";function u(r){return t({url:"/group/list",params:r})}function o(r){return t({url:"/group/create",method:"post",data:r})}function n(r){return t({url:"/group/update",method:"post",data:r})}function p(r){return t({url:"/group/delete",method:"post",data:r})}export{o as c,u as l,p as r,n as u};
